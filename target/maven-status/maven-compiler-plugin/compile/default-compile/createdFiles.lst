@@ -1,0 +1,6 @@
+com\itvdn\controllers\NoteController.class
+com\itvdn\persistence\dao\services\interfaces\NoteService.class
+com\itvdn\persistence\dao\repositories\NoteRepository.class
+com\itvdn\aspects\MyLogger.class
+com\itvdn\persistence\model\Note.class
+com\itvdn\persistence\dao\services\implementations\NoteServiceImpl.class

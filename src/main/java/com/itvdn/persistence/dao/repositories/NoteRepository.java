@@ -17,4 +17,6 @@ public interface NoteRepository extends CrudRepository<Note, Long> {
     @Query(value = "update note set date = :date, note = :note where id = :id"
             , nativeQuery = true)
     void updateNoteById(@Param("id") Long id, @Param("date") String date, @Param("note") String note);
+
+    Note findNoteByDate(String date);
 }

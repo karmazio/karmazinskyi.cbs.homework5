@@ -1,0 +1,6 @@
+D:\Idea Projects\CBS homework\homework6\src\main\java\com\itvdn\persistence\model\Note.java
+D:\Idea Projects\CBS homework\homework6\src\main\java\com\itvdn\controllers\NoteController.java
+D:\Idea Projects\CBS homework\homework6\src\main\java\com\itvdn\persistence\dao\services\implementations\NoteServiceImpl.java
+D:\Idea Projects\CBS homework\homework6\src\main\java\com\itvdn\persistence\dao\repositories\NoteRepository.java
+D:\Idea Projects\CBS homework\homework6\src\main\java\com\itvdn\persistence\dao\services\interfaces\NoteService.java
+D:\Idea Projects\CBS homework\homework6\src\main\java\com\itvdn\aspects\MyLogger.java
